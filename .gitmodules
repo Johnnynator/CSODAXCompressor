@@ -1,3 +1,6 @@
-[submodule "Current/Linux/US/src/ciso-maker"]
-	path = Current/Linux/US/src/ciso-maker
-	url = https://github.com/lafer1/ciso-maker
+[submodule "src/DAX-Creator"]
+	path = src/DAX-Creator
+	url = https://github.com/Johnnynator/DAX-Creator
+[submodule "src/ciso-maker"]
+	path = src/ciso-maker
+	url = https://github.com/laffer1/ciso-maker

@@ -1,3 +1,4 @@
+QT += widgets gui core
 TEMPLATE	= app
 LANGUAGE	= C++
 
@@ -18,4 +19,3 @@ unix {
 }
 RC_FILE = csoCompiler.rcFORMS	= formmain.ui
 RC_FILE = csoCompiler.rc
-FORMS	= formmain.ui
