@@ -1,0 +1,3 @@
+[submodule "Current/Linux/US/src/ciso-maker"]
+	path = Current/Linux/US/src/ciso-maker
+	url = https://github.com/lafer1/ciso-maker
